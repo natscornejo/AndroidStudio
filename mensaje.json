@@ -1,0 +1,71 @@
+[
+	{ 	"mensaje_enviadoXML":"Hey!",
+		"horaMensaje":"Martes a las 4:03 p.m.",
+		"idMensaje1":"2"},
+
+	{ 	"mensaje_enviadoXML":"Me ignoras!! :'(",
+		"horaMensaje":"Miercoles a las 7:39 p.m.",
+		"idMensaje1":"2"},
+
+	{ 	"mensaje_enviadoXML":"Achis",
+		"horaMensaje":"Miercoles a las 10:36 p.m.",
+		"idMensaje1":"1"},
+
+	{ 	"mensaje_enviadoXML":"Yo?",
+		"horaMensaje":"Jueves a las 10:36 p.m.",
+		"idMensaje1":"1"},
+
+	{ 	"mensaje_enviadoXML":"El que me ignora eres tu",
+		"horaMensaje":"10:36 p.m.",
+		"idMensaje1":"1"},
+
+	{ 	"mensaje_enviadoXML":"Entonces si lo hiciste por venganza eeeeh!!",
+		"horaMensaje":"12:24 a.m.",
+		"idMensaje1":"2"},
+
+	{ 	"mensaje_enviadoXML":"Busted jajaja",
+		"horaMensaje":"12:24 a.m.",
+		"idMensaje1":"2"},
+
+	{ 	"mensaje_enviadoXML":"Estaras el fin disponible?",
+		"horaMensaje":"12:24 a.m.",
+		"idMensaje1":"2"},
+
+	{ 	"mensaje_enviadoXML":"No hahahaha. Fue como de, andara ocupado, mejor no molesto",
+		"horaMensaje":"06:56 a.m.",
+		"idMensaje1":"1"},
+
+	{ 	"mensaje_enviadoXML":"Yeap andare disponible, que plan hay?",
+		"horaMensaje":"06:56 a.m.",
+		"idMensaje1":"1"},
+
+	{ 	"mensaje_enviadoXML":"No maaaaa, que despistada. Puedo decir que no me llego la notificacion",
+		"horaMensaje":"06:56 a.m.",
+		"idMensaje1":"1"},
+
+	{ 	"mensaje_enviadoXML":"Calmate",
+		"horaMensaje":"01:40 p.m.",
+		"idMensaje1":"2"},
+
+	{ 	"mensaje_enviadoXML":"Ya vez que si me ignoras",
+		"horaMensaje":"01:40 p.m.",
+		"idMensaje1":"2"},
+
+	{ 	"mensaje_enviadoXML":"El fin hare una fiesta por mi cumple, si tienes tiempo de ir, te das una vuelta",
+		"horaMensaje":"01:40 p.m.",
+		"idMensaje1":"2"},
+
+	{ 	"mensaje_enviadoXML":"Tenias toda la razon, me equivoque",
+		"horaMensaje":"05:56 p.m.",
+		"idMensaje1":"1"},
+
+	{ 	"mensaje_enviadoXML":"Va! Por ahi te veo",
+		"horaMensaje":"05:56 p.m.",
+		"idMensaje1":"1"},
+
+	{ 	"mensaje_enviadoXML":"Te paso la hora y la ubi al ratito, va?",
+		"horaMensaje":"06:15 p.m.",
+		"idMensaje1":"2"}
+]
+
+

@@ -1,0 +1,101 @@
+[
+	{ 	"imgXML":"https://www.edcosoft.com.mx/edcosoft.com.mx/equipo02/harry.jpg", 
+		"usuarioXML":"Harry Styles", 
+		"mensajeXML":"que pex? ontas?", 
+		"horaXML":"2:32 A.M."},
+
+	{ 	"imgXML":"https://www.edcosoft.com.mx/edcosoft.com.mx/equipo02/dua.jpg", 
+		"usuarioXML":"Dua Lipa", 
+		"mensajeXML":"luv u bae", 
+		"horaXML":"11:32 P.M."},
+
+	{ 	"imgXML":"https://www.edcosoft.com.mx/edcosoft.com.mx/equipo02/fatima.jpg", 
+		"usuarioXML":"Fatt M", 
+		"mensajeXML":"que haces",
+		"horaXML":"10:18 P.M."},
+
+	{ 	"imgXML":"https://www.edcosoft.com.mx/edcosoft.com.mx/equipo02/ibis%20real.jpg", 
+		"usuarioXML":"Ibis Real", 
+		"mensajeXML":"weeeeeey chismesito", 
+		"horaXML":"9:45 P.M."},
+
+	{ 	"imgXML":"https://www.edcosoft.com.mx/edcosoft.com.mx/equipo02/tom.jpg", 
+		"usuarioXML":"Tom Holland", 
+		"mensajeXML":"Si vas a venir a la premiere?", 
+		"horaXML":"9:20 P.M."},
+
+	{ 	"imgXML":"https://www.edcosoft.com.mx/edcosoft.com.mx/equipo02/banco_despacho_etc.jpg", 
+		"usuarioXML":"Rosalia", 
+		"mensajeXML":"Sorry bby hoy veo a Raw", 
+		"horaXML":"8:30 P.M."},
+
+	{ 	"imgXML":"https://www.edcosoft.com.mx/edcosoft.com.mx/equipo02/josue.jpg", 
+		"usuarioXML":"Josue",
+		"mensajeXML":"Amiga como vas?",
+		"horaXML":"7:23 P.M."},
+
+	{ 	"imgXML":"https://www.edcosoft.com.mx/edcosoft.com.mx/equipo02/andre.jpg", 
+		"usuarioXML":"Antón Ctangana", 
+		"mensajeXML":"hey te extraño",
+		"horaXML":"7:01 P.M."},
+
+	{ 	"imgXML":"https://www.edcosoft.com.mx/edcosoft.com.mx/equipo02/nicole.jpg", 
+		"usuarioXML":"Nicole", 
+		"mensajeXML":"Helloooo", 
+		"horaXML":"6:53 P.M."},
+
+	{ 	"imgXML":"https://www.edcosoft.com.mx/edcosoft.com.mx/equipo02/lana.jpg", 
+		"usuarioXML":"Lana bb", 
+		"mensajeXML":"Hi bby", 
+		"horaXML":"6:00 P.M."},
+
+	{ 	"imgXML":"https://www.edcosoft.com.mx/edcosoft.com.mx/equipo02/jorge.jpg", 
+		"usuarioXML":"Jorge",
+		"mensajeXML":"No siempre no voy", 
+		"horaXML":"5:53 P.M."},
+
+	{ 	"imgXML":"https://www.edcosoft.com.mx/edcosoft.com.mx/equipo02/ana.jpg", 
+		"usuarioXML":"Ana", 
+		"mensajeXML":"Mi hora es a las 2", 
+		"horaXML":"5:23 P.M."},
+
+	{ 	"imgXML":"https://www.edcosoft.com.mx/edcosoft.com.mx/equipo02/sofi.jpg", 
+		"usuarioXML":"Sofi", 
+		"mensajeXML":"Bye tqm", 
+		"horaXML":"5:12 P.M."},
+
+	{ 	"imgXML":"https://www.edcosoft.com.mx/edcosoft.com.mx/equipo02/marco.jpg", 
+		"usuarioXML":"Mark", 
+		"mensajeXML":"Al rato hablamos", 
+		"horaXML":"4:51 P.M."},
+
+	{ 	"imgXML":"https://www.edcosoft.com.mx/edcosoft.com.mx/equipo02/pete_davidson.jpg", 
+		"usuarioXML":"Pete Davidson", 
+		"mensajeXML":"Hola", 
+		"horaXML":"4:20 P.M."},
+
+	{ 	"imgXML":"https://www.edcosoft.com.mx/edcosoft.com.mx/equipo02/kendall.jpg", 
+		"usuarioXML":"Kendall Jenner", 
+		"mensajeXML":"vamos de fiesta hoy", 
+		"horaXML":"3:41 P.M."},
+
+	{ 	"imgXML":"https://www.edcosoft.com.mx/edcosoft.com.mx/equipo02/kylie.jpg", 
+		"usuarioXML":"Kylie", 
+		"mensajeXML":"Te va a hablar la Kendall", 
+		"horaXML":"3:38 P.M."},
+
+	{ 	"imgXML":"https://www.edcosoft.com.mx/edcosoft.com.mx/equipo02/extra.jpg", 
+		"usuarioXML":"Unknow", 
+		"mensajeXML":"Helloooo", 
+		"horaXML":"6:53 P.M."},
+
+	{ 	"imgXML":"https://www.edcosoft.com.mx/edcosoft.com.mx/equipo02/pamela.jpg", 
+		"usuarioXML":"Pam", 
+		"mensajeXML":"jajajaja no", 
+		"horaXML":"6:11 P.M."},
+
+	{ 	"imgXML":"https://www.edcosoft.com.mx/edcosoft.com.mx/equipo02/sara.jpg", 
+		"usuarioXML":"Mi ex", 
+		"mensajeXML":"Que onda te extraño", 
+		"horaXML":"6:09 P.M."}
+]
